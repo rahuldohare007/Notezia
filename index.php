@@ -160,7 +160,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
   }
   ?>
   <div class="container my-4">
-    <h2>Add a Note to iNotes</h2>
+    <h2>Add a Note to Notezia</h2>
     <form action="https://idiscuss-coding-forum7.000webhostapp.com/" method="POST">
       <div class="form-group">
         <label for="title">Note Title</label>
